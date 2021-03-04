@@ -22,9 +22,14 @@ basic_ga does a quick evalution and converge in 39,79 millis and about ~40 gener
 	ga.show_top10 = false
 
 ### install
-    v install geneticalg
+    v install sha0coder-V.geneticalg
 
 ### usage
+
+Import geneticalg
+```V
+	import sha0coder_v.geneticalg
+```
 
 Create a GA and configure it:
 
