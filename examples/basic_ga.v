@@ -1,4 +1,4 @@
-import geneticalg 
+import sha0coder_v.geneticalg 
 
 
 fn main() {
